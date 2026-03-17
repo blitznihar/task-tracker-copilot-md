@@ -40,6 +40,9 @@ task-tracker/
 ```
 
 ---
+## Structure:
+
+![How the project structure looks like](image.png)
 
 ## How to Use GitHub Copilot with This Repo
 
