@@ -40,12 +40,6 @@ task-tracker/
 ```
 
 ---
-## Structure:
-
-![How the project structure looks like](copilot-structure.drawio.svg)
-
-![How the project structure looks like](image.png)
-[Edit Diagram](copilot-structure.drawio)
 
 ## How to Use GitHub Copilot with This Repo
 
@@ -169,10 +163,3 @@ List any violations and suggest fixes.
 | Write tests | "Use .github/prompts/write-tests.prompt.md for [feature]" |
 | Refactor safely | "Use .github/prompts/refactor-safely.prompt.md to improve [code]" |
 | Review code | "Review this against .github/copilot-instructions.md" |
-
-
----
-
-## Workflow updating the specs and contracts:
-
-![How the project structure looks like](updateprocess.png)
