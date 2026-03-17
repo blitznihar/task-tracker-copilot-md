@@ -42,7 +42,10 @@ task-tracker/
 ---
 ## Structure:
 
+![How the project structure looks like](copilot-structure.drawio.svg)
+
 ![How the project structure looks like](image.png)
+[Edit Diagram](copilot-structure.drawio)
 
 ## How to Use GitHub Copilot with This Repo
 
